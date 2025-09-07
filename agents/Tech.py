@@ -149,6 +149,3 @@ Data:
         "indicators": indicator_data,
         "analysis": llm_analysis
     }
-
-# Example usage
-
