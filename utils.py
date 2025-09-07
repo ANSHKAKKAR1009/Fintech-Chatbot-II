@@ -268,8 +268,7 @@ def final_call(query: str,groq_api_key: str, serpapi_key: str) -> Dict:
     return result
 
 
-# GROQ_API_KEY = "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"
-# # Serp_API_KEY = "2c9f61a889ad98af47c7fdfc0e3b6b218346e52ea567c55a64874063917f8497"
+
 # user_query = str(input("Enter your financial query: "))
 # result = final_call(user_query, GROQ_API_KEY, Serp_API_KEY)
 # print(f"Answer:\n{result['answer']}\n")

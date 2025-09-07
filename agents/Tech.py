@@ -151,5 +151,4 @@ Data:
     }
 
 # Example usage
-# GROQ_API_KEY = "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"
-# GROQ_MODEL = "llama3-70b-8192"
+
